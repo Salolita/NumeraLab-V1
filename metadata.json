@@ -1,0 +1,6 @@
+{
+  "name": "حل‌کننده معادلات غیرخطی | محاسبات عددی",
+  "description": "سامانه علمی و آموزشی حل معادلات غیرخطی تک‌متغیره به روش‌های تنصیف، نیوتون–رافسون، وتری و نابجایی همراه با جدول گام‌به‌گام و نمودار تعاملی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
